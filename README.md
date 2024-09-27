@@ -1,2 +1,2 @@
-# lift_42
-libft 42
+# libft_42
+Proyecto libft 42.
